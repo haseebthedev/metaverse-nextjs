@@ -95,6 +95,6 @@ module.exports = {
         ],
       },
     ],
-    'jsx-quotes': [2, 'prefer-single'],
+    quotes: [0, "double"]
   },
 };
